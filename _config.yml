@@ -5,10 +5,29 @@ title_separator: "-"
 subtitle: "Visiting Lecturer of Engineering Mathematics"
 name: "Ramchandra Timilsina"
 description: "Visiting Lecturer of Engineering Mathematics at Kathmandu University"
-url: "https://timilsinarc07.github.io"
+url: "https://github.io"
 baseurl: ""
 repository: "TimilsinaRC07/TimilsinaRC07.github.io"
+markdown: kramdown
+highlighter: rouge
 words_per_minute: 200
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Theme Layout defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
 
 # Author Details (Sidebar)
 author:
@@ -22,7 +41,7 @@ author:
       url: "mailto:timilsinarc07@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://timilsinarc07.github.io/"
+      url: "https://github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com"
