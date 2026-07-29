@@ -25,17 +25,19 @@ author:
       url: "https://timilsinarc07.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/TimilsinaRC07"
+      url: "https://github.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/timilsina-rc-04a561179/"
+      url: "https://linkedin.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@Timilsina_RC"
+      url: "https://youtube.com"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0009-0003-1921-1633"
+      url: "https://orcid.org"
 
 # Site Footer
 footer:
-links:
+  links:
+    - label: "GitHub"
+      url: "https://github.com"
