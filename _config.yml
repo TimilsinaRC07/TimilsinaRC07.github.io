@@ -1,24 +1,20 @@
 # Site Settings
 locale: "en-US"
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 title: "TimilsinaRC"
 title_separator: "-"
 subtitle: "Visiting Lecturer of Engineering Mathematics"
 name: "Ramchandra Timilsina"
 description: "Visiting Lecturer of Engineering Mathematics at Kathmandu University"
-url: "https://github.io"
+url: "https://timilsinarc07.github.io"
 baseurl: ""
 repository: "TimilsinaRC07/TimilsinaRC07.github.io"
-markdown: kramdown
-highlighter: rouge
 words_per_minute: 200
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+# Conversion
+markdown: kramdown
+highlighter: rouge
+encoding: "utf-8"
 
 # Theme Layout defaults
 defaults:
@@ -29,7 +25,7 @@ defaults:
       layout: "single"
       author_profile: true
 
-# Author Details (Sidebar)
+# Site Author (Sidebar Configuration)
 author:
   name: "Ramchandra Timilsina"
   avatar: "https://githubusercontent.com"
@@ -37,11 +33,11 @@ author:
   location: "Dhulikhel, Nepal"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-square-envelope"
       url: "mailto:timilsinarc07@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://github.io/"
+      url: "https://timilsinarc07.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com"
@@ -59,4 +55,6 @@ author:
 footer:
   links:
     - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com"
+  since: "2026"
