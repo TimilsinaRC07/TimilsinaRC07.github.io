@@ -1,8 +1,0 @@
-# Top Navigation Bar Links
-main:
-  - title: "About"
-    url: /
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /cv/
