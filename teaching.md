@@ -12,13 +12,13 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 * **Differential Equation & Complex Variables (MATH 207)**
   * Undergraduate Engineering Course
   * Kathmandu University
-  * [Download Lecture Note (Differential Equation)](/Teaching/Differential Equation.pdf)
-  * [Download Lecture Note (Complex Variables)](/Teaching/Complex Variables.pdf)
+  * [Download Lecture Note (Differential Equation)](Teaching/Differential Equation.pdf)
+  * [Download Lecture Note (Complex Variables)](Teaching/Complex Variables.pdf)
 
 * **Business Mathematics II (MAS 105)**
   * Undergraduate BBA Course
   * Kathmandu University
-  * [Download Syllabus PDF](/Teaching/Syllabus MAS 105.pdf)
+  * [Download Syllabus PDF](Teaching/Syllabus MAS 105.pdf)
 
 * **Calculus I (MTH 110)**
   * Undergraduate Engineering Course
