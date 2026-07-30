@@ -21,7 +21,7 @@ title                    : "Ramchandra Timilsina"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ramchandra Timilsina"
-description              : "I am a visiting lecturer of engineering mathematics at Kathmandu University"
+description              : "-"
 url                      : "https://timilsinarc07.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,8 +116,7 @@ analytics:
 author:
   name             : "Ramchandra Timilsina"
   avatar           : "bio-avatar.jpg"
-  bio              : "Senior Lecturer"
-  location         : "Everest Engineering College"
+  bio              : "Senior Lecturer at Everest Engineering College"
   location         : "Kathmandu, Nepal"
   #email            : "timilsinarc07@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
