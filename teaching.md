@@ -38,7 +38,7 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 * **Applied Mathematics (MTH 250)**
   * Undergraduate Engineering Course
   * Pokhara University
-  * 
+    
 * **Numerical Methods (MTH 317 / MTH 212)**
   * Undergraduate Engineering Course
   * Pokhara University
