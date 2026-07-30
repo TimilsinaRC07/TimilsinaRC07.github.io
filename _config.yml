@@ -120,7 +120,7 @@ author:
   location         : "Kathmandu, Nepal"
   email            : "timilsinarc07@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
- links:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:timilsinarc07@gmail.com"
