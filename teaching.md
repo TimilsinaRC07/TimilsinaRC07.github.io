@@ -18,7 +18,7 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 * **Business Mathematics II (MAS 105)**
   * Undergraduate BBA Course
   * Kathmandu University
-  * [Download Syllabus PDF](Teaching/Syllabus MAS 105.pdf)
+  * [Download Syllabus PDF](Teaching/Syllabus_MAS 105.pdf)
 
 * **Calculus I (MTH 110)**
   * Undergraduate Engineering Course
