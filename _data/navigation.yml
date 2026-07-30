@@ -1,10 +1,10 @@
 # Main Navigation Links
 main:
-  - title: "Home"
+  - title: "CV"
     url: /
   - title: "Research"
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "CV"
+  - title: "Resources"
     url: /cv/
