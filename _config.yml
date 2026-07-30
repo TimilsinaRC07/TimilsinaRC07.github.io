@@ -116,7 +116,8 @@ analytics:
 author:
   name             : "Ramchandra Timilsina"
   avatar           : "bio-avatar.jpg"
-  bio              : "I am a visiting lecturer of engineering mathematics at Kathmandu University."
+  bio              : "Senior Lecturer"
+  location         : "Everest Engineering College"
   location         : "Kathmandu, Nepal"
   #email            : "timilsinarc07@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
