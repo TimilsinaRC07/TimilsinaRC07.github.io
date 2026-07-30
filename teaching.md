@@ -45,4 +45,4 @@ Below, you will find the courses I teach alongside lecture notes and study mater
   * Pokhara University
     
 ## Study Materials
-  * [Book: Advance Engineering Mathematics](/Teaching/Advance Engineering Mathematics.pdf)
+  * [Book: Advance Engineering Mathematics](Teaching/Advanced Engineering Mathematics 10th Edition.pdf)
