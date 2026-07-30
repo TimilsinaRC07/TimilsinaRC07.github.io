@@ -120,10 +120,10 @@ author:
   location         : "Kathmandu, Nepal"
   email            : "timilsinarc07@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
-  links:
+ links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-       url: "timilsinarc07@gmail.com"
+      url: "mailto:timilsinarc07@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://timilsinarc07.github.io/"
@@ -138,7 +138,7 @@ author:
       url: "https://orcid.org/0009-0003-1921-1633" 
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@Timilsina_RC" 
+      url: "https://www.youtube.com/@Timilsina_RC"
 
 # Site Footer
 footer:
