@@ -13,7 +13,7 @@ Below, you will find my dissertation details, current academic projects, and con
 * **Master of Science Dissertation**
   * Central Department of Mathematics (CDM), Tribhuvan University
   * **Title:** ``Optimization of Evacuation Network under the Network Disruption''
-  * **Supervisor:** [Prof. Dr. Tanka Nath Dhamala]((https://dhamalatn.cdmathtu.edu.np/)
+  * **Supervisor:** [Prof. Dr. Tanka Nath Dhamala](https://dhamalatn.cdmathtu.edu.np/)
     
 * **Bachelor of Science Project**
   * Prithvi Narayan Campus, Tribhuvan University
