@@ -1,7 +1,7 @@
 # Main Navigation Links
 main:
   - title: "CV"
-    url: /
+    url: /documents/CV_RC.pdf
   - title: "Research"
     url: /research/
   - title: "Teaching"
