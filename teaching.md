@@ -52,17 +52,61 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 If you are a student in any of my courses, feel free to leave constructive suggestions, questions, or general feedback below **completely anonymously**.
 
 <div style="margin-top: 20px; padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa;">
-  <form action="https://web3forms.com" method="POST">
-    <!-- Web3Forms unique verification code -->
-    <input type="hidden" name="access_key" value="9a14cf5f-33aa-4d1f-a7e3-114aa902f844">
-    <!-- Successful redirect after submission -->
-    <input type="hidden" name="redirect" value="https://github.io">
-    
+  <form id="feedbackForm">
+   
     <div style="margin-bottom: 15px;">
       <label for="message" style="display: block; font-weight: bold; margin-bottom: 5px; color: #24292e;">Your Feedback / Suggestion:</label>
       <textarea id="message" name="message" rows="5" required placeholder="Type your anonymous thoughts here..." style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; resize: vertical; background-color: #ffffff; color: #24292e;"></textarea>
     </div>
     
-    <button type="submit" style="background-color: #2ea44f; color: white; border: none; padding: 10px 20px; font-weight: bold; border-radius: 6px; cursor: pointer;">Submit Feedback</button>
+    <button type="submit" id="submitBtn" style="background-color: #2ea44f; color: white; border: none; padding: 10px 20px; font-weight: bold; border-radius: 6px; cursor: pointer;">Submit Feedback</button>
   </form>
+  <div id="responseMessage" style="margin-top: 10px; font-weight: bold; display: none;"></div>
 </div>
+
+<script>
+document.getElementById('feedbackForm').addEventListener('submit', function(e) {
+  e.preventDefault();
+  
+  var btn = document.getElementById('submitBtn');
+  var resDiv = document.getElementById('responseMessage');
+  
+  btn.innerText = 'Sending...';
+  btn.disabled = true;
+
+  var formData = {
+    access_key: '9a14cf5f-33aa-4d1f-a7e3-114aa902f844',
+    course: document.getElementById('course').value,
+    message: document.getElementById('message').value
+  };
+
+  fetch('https://web3forms.com', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Accept': 'application/json'
+    },
+    body: JSON.stringify(formData)
+  })
+  .then(async (response) => {
+    let json = await response.json();
+    if (response.status == 200) {
+      resDiv.style.color = '#2ea44f';
+      resDiv.innerText = 'Thank you! Your anonymous feedback has been sent successfully.';
+      document.getElementById('feedbackForm').reset();
+    } else {
+      resDiv.style.color = '#d73a49';
+      resDiv.innerText = json.message || 'Something went wrong. Please try again.';
+    }
+  })
+  .catch(error => {
+    resDiv.style.color = '#d73a49';
+    resDiv.innerText = 'Network error. Please check your connection.';
+  })
+  .then(function() {
+    resDiv.style.display = 'block';
+    btn.innerText = 'Submit Feedback';
+    btn.disabled = false;
+  });
+});
+</script>
