@@ -6,34 +6,19 @@ permalink: /research/
 author_profile: true
 ---
 
-Below, you will find my dissertation details, current academic projects, and conference presentations.
+My research focuses on [combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization) problems in graphs or networks. I am particularly interested in:
 
-## Dissertations & Projects
+* Optimization of transportation networks, such as flow maximization and cost minimization,
+* Facility location-allocation problems using MILP models and heuristic approaches,
+* Data analysis and modeling.
 
-* **Master of Science Dissertation**
-  * Central Department of Mathematics (CDM), Tribhuvan University
-  * **Title:** ``Optimization of Evacuation Network under the Network Disruption''
-  * **Supervisor:** [Prof. Dr. Tanka Nath Dhamala](https://dhamalatn.cdmathtu.edu.np/)
-    
-* **Bachelor of Science Project**
-  * Prithvi Narayan Campus, Tribhuvan University
-  * **Title:** ``A Study on Fibonacci Numbers and Golden Ratio''
-  * **Supervisor:** [Mr. Ramesh Kumar Acharya](https://www.researchgate.net/profile/Ramesh-Acharya-4)
+## Publications
 
-## Conference & Seminar Presentations
+Visit my [Google Scholar profile](https://scholar.google.com/citations?user=vrBf8DsAAAAJ&hl=en&oi=ao).
 
-* **International Conference on Civil Engineering Innovations & Sustainable Development 2026 (CEISD-2026)**
-  * Department of Civil Engineering, Everest Engineering College, Nepal (April 26, 2026)
-  * **Role:** As a Presenter
-  * **Presentation Title:** *``Optimization of Evacuation Network under the Network Disruption''*
+## Projects
 
-* **3rd Seminar cum Workshop on Mathematics and Its Applications - 2079**
-  * Central Department of Mathematics, Tribhuvan University, Nepal (August 28, 2022)
-  * **Role:** As a Presenter
-  * **Presentation Title:** *``Optimization Technique to Reroute the Evacuation Network in Real Time''*
+### Ongoing
+* **GIS-Based Spatial Optimization Model for Emergency Flood Shelter Allocation in the Kali Gandaki River Corridor, Nepal**
 
-## Research Visits
 
-* **Karlsruhe Institute of Technology (KIT), Germany**
-  * [Discrete Optimization and Logistics Group](https://dol.ior.kit.edu/english/index.php) (November 01 -- 29, 2024)
-  * Invited by [Prof. Dr. Stefan Nickel](https://dol.ior.kit.edu/english/Team_Nickel.php) for a one-month research stay.
