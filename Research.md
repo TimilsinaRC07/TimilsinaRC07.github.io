@@ -17,6 +17,6 @@ Visit my [Google Scholar profile](https://scholar.google.com/citations?user=vrBf
 
 ## Projects
 ### Ongoing
-* **GIS-Based Spatial Optimization Model for Emergency Flood Shelter Allocation in the Kali Gandaki River Corridor, Nepal**
+* GIS-Based Spatial Optimization Model for Emergency Flood Shelter Allocation in the Kali Gandaki River Corridor, Nepal.
 
 
