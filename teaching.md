@@ -48,7 +48,7 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 ## Study Materials
 * [Text Book: Advanced Engineering Mathematics](Teaching/Advanced Engineering Mathematics 10th Edition.pdf)
 
-## Anonymous Student Feedback
+## Feedback
 If you are a student in any of my courses, feel free to leave constructive suggestions, questions, or general feedback below **completely anonymously**.
 
 <div style="margin-top: 20px; padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa;">
