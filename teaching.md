@@ -55,9 +55,6 @@ If you are a student in any of my courses, feel free to leave constructive sugge
 
 <form action="https://formsubmit.co" method="POST" style="margin-top: 20px; padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa;">
   
-  <input type="hidden" name="_next" value="https://github.io">
-  <!-- Robo-submission (Captcha) hatauna ko lagi -->
-  <input type="hidden" name="_captcha" value="false">
   
   <div style="margin-bottom: 15px;">
     <label for="message" style="display: block; font-weight: bold; margin-bottom: 5px; color: #24292e;">Your Feedback / Suggestion:</label>
