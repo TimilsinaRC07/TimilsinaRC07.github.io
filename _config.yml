@@ -139,7 +139,9 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@Timilsina_RC"
-
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "hhttps://scholar.google.com/citations?user=vrBf8DsAAAAJ&hl=en&oi=ao"
 # Site Footer
 footer:
   links:
