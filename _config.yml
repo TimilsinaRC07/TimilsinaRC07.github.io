@@ -121,6 +121,9 @@ author:
   #email            : "timilsinarc07@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
+    - label: "Everest Engineering College"
+      icon: "fas fa-fw fa-briefcase"
+      url: "https://eemc.edu.np/"
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:timilsinarc07@gmail.com"
@@ -140,8 +143,9 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@Timilsina_RC"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "hhttps://scholar.google.com/citations?user=vrBf8DsAAAAJ&hl=en&oi=ao"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=vrBf8DsAAAAJ&hl=en&oi=ao"
+
 # Site Footer
 footer:
   links:
