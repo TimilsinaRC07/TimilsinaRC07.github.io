@@ -52,11 +52,11 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 If you are a student in any of my courses, feel free to leave constructive suggestions, questions, or general feedback below **completely anonymously**.
 
 <div style="margin-top: 20px; padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa;">
-  <form action="https://google.com" method="POST">
+  <form action="https://formspree.io" method="POST">
     
     <div style="margin-bottom: 15px;">
       <label for="message" style="display: block; font-weight: bold; margin-bottom: 5px; color: #24292e;">Your Feedback / Suggestion:</label>
-      <textarea id="message" name="entry.169123896" rows="5" required placeholder="Type your anonymous thoughts here..." style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; resize: vertical; background-color: #ffffff; color: #24292e;"></textarea>
+      <textarea id="message" name="message" rows="5" required placeholder="Type your anonymous thoughts here..." style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; resize: vertical; background-color: #ffffff; color: #24292e;"></textarea>
     </div>
     
     <button type="submit" style="background-color: #2ea44f; color: white; border: none; padding: 10px 20px; font-weight: bold; border-radius: 6px; cursor: pointer;">Submit Feedback</button>
