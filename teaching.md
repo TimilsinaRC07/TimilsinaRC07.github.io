@@ -52,14 +52,14 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 If you are a student in any of my courses, feel free to leave constructive suggestions, questions, or general feedback below **completely anonymously**.
 
 <div style="margin-top: 20px; padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa;">
- 
+
   <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(typeof submitted !== 'undefined' && submitted) { handleFormResponse(); }"></iframe>
 
   <form id="googleFeedbackForm" action="https://google.com" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
     
     <div style="margin-bottom: 15px;">
       <label for="message" style="display: block; font-weight: bold; margin-bottom: 5px; color: #24292e;">Your Feedback / Suggestion:</label>
-      
+      <!-- गुगल फर्मको 'Paragraph' प्रश्नको एन्ट्री नेम -->
       <textarea id="message" name="entry.169123896" rows="5" required placeholder="Type your anonymous thoughts here..." style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 4px; box-sizing: border-box; resize: vertical; background-color: #ffffff; color: #24292e;"></textarea>
     </div>
     
@@ -67,5 +67,6 @@ If you are a student in any of my courses, feel free to leave constructive sugge
   </form>
   
   <div id="successMsg" style="margin-top: 15px; font-weight: bold; color: #2ea44f; display: none;">
+    Thank you! Your anonymous feedback has been submitted successfully directly into the system.
   </div>
 </div>
