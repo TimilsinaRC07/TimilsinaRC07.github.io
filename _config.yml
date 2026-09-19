@@ -122,9 +122,6 @@ author:
   #email            : "timilsinarc07@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Everest Engineering College"
-      icon: "fas fa-fw fa-briefcase"
-      url: "https://eemc.edu.np/"
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:timilsinarc07@gmail.com"
