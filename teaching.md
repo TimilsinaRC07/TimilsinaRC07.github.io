@@ -24,6 +24,7 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 * **Calculus I (MTH 110)**
   * Undergraduate Engineering Course
   * Pokhara University
+  * [Download Syllabus](https://drive.google.com/file/d/19u5f0q9LamqxJ9vx7-qUBpS2VOGj-zuW/view?usp=drive_link)
     
 * **Calculus II (MTH 210)**
   * Undergraduate Engineering Course
@@ -47,6 +48,7 @@ Below, you will find the courses I teach alongside lecture notes and study mater
     
 ## Study Materials
 * [Text Book: Advanced Engineering Mathematics](Teaching/Advanced Engineering Mathematics 10th Edition.pdf)
+* [Formula](https://drive.google.com/file/d/1pNahT2o-9QAVTGsFZ4YsY0QCl1Ubx0NU/view?usp=drive_link)
 
 ## Feedback
 If you are a student in any of my courses, feel free to leave constructive suggestions, questions, or general feedback below **completely anonymously**.
