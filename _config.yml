@@ -118,6 +118,7 @@ author:
   avatar           : "bio-avatar.jpg"
   bio              : "Senior Lecturer"
   location         : "Kathmandu, Nepal"
+  employer         : "Everest Engineering College"
   #email            : "timilsinarc07@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
@@ -136,15 +137,19 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/timilsina-rc-04a561179/" 
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=vrBf8DsAAAAJ&hl=en&oi=ao"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Ramchandra-Timilsina"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0003-1921-1633" 
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@Timilsina_RC"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=vrBf8DsAAAAJ&hl=en&oi=ao"
+    
 
 # Site Footer
 footer:
