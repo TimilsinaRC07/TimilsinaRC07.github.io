@@ -13,23 +13,23 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 * **Differential Equation & Complex Variables (MATH 207)**
   * Undergraduate Engineering Course
   * Kathmandu University
-  * [Download Lecture Note (Differential Equation)](Teaching/Differential Equation.pdf)
-  * [Download Lecture Note (Complex Variables)](Teaching/Complex Variables.pdf)
+  * [Download Lecture Note (Differential Equation)](https://shrinkme.click/Diff_Eqn_KU)
+  * [Download Lecture Note (Complex Variables)](https://shrinkme.click/Complex_Variable_KU)
 
 * **Business Mathematics II (MAS 105)**
   * Undergraduate BBA Course
   * Kathmandu University
-  * [Download Syllabus](Teaching/Syllabus_MAS 105.pdf)
+  * [Download Syllabus](https://shrinkme.click/Business_Math_II_Syllabus_KU)
 
 * **Calculus I (MTH 110)**
   * Undergraduate Engineering Course
   * Pokhara University
-  * [Download Syllabus](https://drive.google.com/file/d/19u5f0q9LamqxJ9vx7-qUBpS2VOGj-zuW/view?usp=drive_link)
+  * [Download Syllabus](https://shrinkme.click/Calculus-I_Syllabus_PU)
     
 * **Calculus II (MTH 210)**
   * Undergraduate Engineering Course
   * Pokhara University
- 
+ * [Download Syllabus](https://shrinkme.click/Calculus-II_Syllabus_PU)
 * **Algebra & Geometry (MTH 150)**
   * Undergraduate Engineering Course
   * Pokhara University
@@ -47,8 +47,8 @@ Below, you will find the courses I teach alongside lecture notes and study mater
   * Pokhara University
     
 ## Study Materials
-* [Text Book: Advanced Engineering Mathematics](Teaching/Advanced Engineering Mathematics 10th Edition.pdf)
-* [Formula](https://drive.google.com/file/d/1pNahT2o-9QAVTGsFZ4YsY0QCl1Ubx0NU/view?usp=drive_link)
+* [Text Book: Advanced Engineering Mathematics](https://shrinkme.click/Advance_Eng_Math)
+* [Formula](https://shrinkme.click/Formula)
 
 ## Feedback
 If you are a student in any of my courses, feel free to leave constructive suggestions, questions, or general feedback below **completely anonymously**.
