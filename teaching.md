@@ -13,23 +13,23 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 * **Differential Equation & Complex Variables (MATH 207)**
   * Undergraduate Engineering Course
   * Kathmandu University
-  * [Download Lecture Note (Differential Equation)](https://shrinkme.click/Diff_Eqn_KU)
-  * [Download Lecture Note (Complex Variables)](https://shrinkme.click/Complex_Variable_KU)
+  * [Download Lecture Note (Differential Equation)](https://drive.google.com/file/d/15cXnhHvHcbbDWkMwUG7PwfAf-esSDQcQ/view?usp=drive_link)
+  * [Download Lecture Note (Complex Variables)](https://drive.google.com/file/d/1mhESZ4Y_7REiIK0IMcmeRyBjXsCgzHIo/view?usp=drive_link)
 
 * **Business Mathematics II (MAS 105)**
   * Undergraduate BBA Course
   * Kathmandu University
-  * [Download Syllabus](https://shrinkme.click/Business_Math_II_Syllabus_KU)
+  * [Download Syllabus](https://drive.google.com/file/d/1ViGtACRz1ekI-K1Ld-G0uzbmE9wGAUuT/view?usp=drive_link)
 
 * **Calculus I (MTH 110)**
   * Undergraduate Engineering Course
   * Pokhara University
-  * [Download Syllabus](https://shrinkme.click/Calculus-I_Syllabus_PU)
+  * [Download Syllabus](https://drive.google.com/file/d/19u5f0q9LamqxJ9vx7-qUBpS2VOGj-zuW/view?usp=drive_link)
     
 * **Calculus II (MTH 210)**
   * Undergraduate Engineering Course
   * Pokhara University
- * [Download Syllabus](https://shrinkme.click/Calculus-II_Syllabus_PU)
+  * [Download Syllabus](https://drive.google.com/file/d/10_CLzRrJ75VbhJ965p8oneXrhnODhozo/view?usp=drive_link)
 * **Algebra & Geometry (MTH 150)**
   * Undergraduate Engineering Course
   * Pokhara University
@@ -47,8 +47,8 @@ Below, you will find the courses I teach alongside lecture notes and study mater
   * Pokhara University
     
 ## Study Materials
-* [Text Book: Advanced Engineering Mathematics](https://shrinkme.click/Advance_Eng_Math)
-* [Formula](https://shrinkme.click/Formula)
+* [Text Book: Advanced Engineering Mathematics](https://drive.google.com/file/d/1LBLiKDTCavjI64aKoqqhBJlxOXQwABOO/view?usp=drive_link)
+* [Formula](https://drive.google.com/file/d/1LlO7kg-i3UmCGzd1pF4_O1MpQrwYy7Xm/view?usp=drive_link)
 
 ## Feedback
 If you are a student in any of my courses, feel free to leave constructive suggestions, questions, or general feedback below **completely anonymously**.
