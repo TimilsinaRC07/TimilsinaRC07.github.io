@@ -41,7 +41,7 @@ Below, you will find the courses I teach alongside lecture notes and study mater
 * **Numerical Methods (MTH 230)**
   * Undergraduate Engineering Course
   * Pokhara University
-
+  * [MatLab Note](https://github.com/TimilsinaRC07/MatLab-Note/blob/main/Matlab_note.pdf)
 * **Probability & Statistics (MTH 216)**
   * Undergraduate Engineering Course
   * Pokhara University
